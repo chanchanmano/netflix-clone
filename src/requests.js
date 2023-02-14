@@ -1,4 +1,4 @@
-const APIKEY = "GET YOUR OWN";
+const APIKEY = "_______";
 
 const requests = [
     {
